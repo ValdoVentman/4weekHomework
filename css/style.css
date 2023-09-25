@@ -1,7 +1,7 @@
 body {
     background-color: rgb(221, 165, 221);
 }
-.Title {
+.title {
     text-align: center;
     font-family: 'Pacifico', cursive;
     font-size: 50px;
@@ -22,7 +22,7 @@ body {
     85% {top: 50px;}
     100% {top: 0px;}
  }
-.Title2 {
+.title2 {
     color: crimson;
     position: relative;
     animation: title2;
@@ -35,7 +35,7 @@ body {
     100% {left: 0;}
  }
 
-.Ingredient {
+.ingredient {
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
@@ -45,7 +45,7 @@ body {
     color: rgb(8, 94, 19);
 }
 
-.Ingredient td {
+.ingredient td {
     color: rgb(218, 43, 20);
     animation: textTdRight;
     animation-duration: 5s;
